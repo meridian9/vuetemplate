@@ -1,0 +1,13 @@
+.vscode/*
+.vs/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vs/vuetemplate/v15/.suo
+node_modules
+obj
+bin
+wwwroot/dist
+*.csproj.user
+*.user
